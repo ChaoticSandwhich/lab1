@@ -1,0 +1,33 @@
+<html lang="en"> 
+	<head>
+		<meta charset="utf-8">
+        <title>Space Suit's Expensis </title>
+	</head> 
+	<body>
+        <img src="img/header.earth.jpg" alt="image of earth from space">
+        <h1> Space Suit's Expenses</h1>
+		<h2>Find the Right Materials</h2> 
+		<p>
+			Astronaut suits are made from specialized materials that are not only durable but also lightweight.
+            These materials are often expensive and may need to be developed specifically for space suit applications.
+            This would be one of the leading reasons why they are expensive.
+		</p>
+		<img src="img-image-1-400x350.jpg" alt="suit details" >
+        <h1> Trial and Error </h1>	
+		<p>
+			Astronaut suits undergo extensive testing to ensure they can withstand the harsh conditions of space. 
+            This includes pressure testing, thermal testing, radiation testing, and more. These tests help ensure the safety of astronauts, 
+            but they also contribute to the overall expense.
+		</p>
+		<img src="img-image-2-400x267.jpg" alt="3rd image" width="1500" height="350">
+        <h1>Latest News</h1>
+        <h2>The Next Generation of Space Suits</h2>
+        <p>
+            NASA and aerospace company Axiom Space have unveiled the next-generation spacesuit 
+            that astronauts will wear on the next walk on the moon.
+            Review all the design features of this new $228 million dollar Axiom Space Suit.
+        </p>
+        <img src="NASA_logo.svg_350x293.jpg" alt="NASA logo">
+        <h3> Kevin Castaneda </h3>
+	</body>
+</html>
